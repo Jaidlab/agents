@@ -1,0 +1,20 @@
+{
+  "name": "jaidlab-agents",
+  "interface": {
+    "displayName": "JaidLab Agents"
+  },
+  "plugins": [
+    {
+      "name": "skills-plugin",
+      "source": {
+        "source": "local",
+        "path": "./plugins/skills-plugin"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

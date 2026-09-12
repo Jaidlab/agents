@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "skills-plugin",
+  "version": "0.1.0",
+  "description": "general-purpose agent behavior skills",
+  "author": {
+    "name": "Jaid",
+    "url": "https://github.com/Jaid"
+  },
+  "homepage": "https://github.com/jaidlab/agents",
+  "repository": "https://github.com/jaidlab/agents",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agents"
+  ]
+}
